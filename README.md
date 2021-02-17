@@ -31,5 +31,9 @@ Slider / arrow  navigation / dots navigation
                         </div>
                     </div>
                 </div>
-            </div>
-            ```
+            </div> 
+```
+### Usage
+            
+            
+            
