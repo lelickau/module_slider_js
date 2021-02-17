@@ -2,6 +2,7 @@
 Slider / arrow  navigation / dots navigation 
 ### HTML
 
+```
   <div class="offer__slider">
                 <div class="offer__slider-counter">
                     <div class="offer__slider-prev">
@@ -31,3 +32,4 @@ Slider / arrow  navigation / dots navigation
                     </div>
                 </div>
             </div>
+            ```
